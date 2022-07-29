@@ -1,0 +1,7 @@
+Steps to run code:
+1. You need to setup selenium driver for your browser on your system.
+2. External libraries required: tqdm, pandas, selenium
+3. First run script “scrap_user_page.py” using following command:
+   >> python3 run scrap_user_page.py
+4. Then run script “scrap_video_page.py” using following command:
+   >> python3 run scrap_video_page.py

@@ -1,0 +1,186 @@
+*************** ERROR ALERT ***************
+File Name: ANASTHESIA February 15, 2022 - Morning.txt
+Something is wrong around following 7 lines:
+533 89)
+534 A. Air humidity in OT:
+535 A. 55%
+536 B. 45%
+537 C. 65%
+538 D. 80%
+539 Ans: A
+
+*************** ERROR ALERT ***************
+File Name: ANASTHESIA May 17, 2022 - Morning.txt
+Something is wrong around following 7 lines:
+407 62)
+408 A. Mononuclear phagocytic Cells derived from which of the following?
+409 A. Spleen
+410 B. Liver
+411 C. Bone marrow
+412 D. Pancreas
+413 Ans: C
+
+*************** ERROR ALERT ***************
+File Name: ANASTHESIA May 17, 2022 - Morning.txt
+Something is wrong around following 7 lines:
+485 73) Which of the following is more prone to ischemia?
+486 A. Heart
+487 B. Kidney
+488 C. Neuron
+489 D. Liver
+490 E- Spleen
+491 Ans: C
+
+*************** ERROR ALERT ***************
+File Name: GYNAE & OBS February 16,2022 - Afternoon.txt
+Something is wrong around following 5 lines:
+29 Bulbourethral urethra
+30 B. Membranous urethra
+31 C. Internal pudendal vessel
+32 D. Perineal nerve
+33 Ans: C
+
+*************** ERROR ALERT ***************
+File Name: GYNAE & OBS May 16, 2022 — Afternoon.txt
+Something is wrong around following 7 lines:
+358 A 68-year-old woman with uterine carcinoma undergoes surgical
+359 resection. This cancer can spread directly to the labia majora in lymphatic that follow which of the following structures?
+360 A. Pubic arcuate ligament
+361 B. Suspensory ligament of the ovary
+362 C. Cardinal (transverse cervical) ligament
+363 D. Round ligament of the uterus
+364 Ans: D
+
+*************** ERROR ALERT ***************
+File Name: GYNAE & OBS May 16, 2022 — Afternoon.txt
+Something is wrong around following 7 lines:
+800 HCOj absorption occurs in:
+801 A. PCT plus CD
+802 B. DCT plus CT
+803 C. PCT plus DCT
+804 D. Loop plus DCT
+805 E- DCT plus PCT
+806 Ans: A
+
+*************** ERROR ALERT ***************
+File Name: MEDCINE February 15, 2022 - Afternoon.txt
+Something is wrong around following 6 lines:
+940 136) Mean is defined as:
+941 A. Sum of All observation
+942 B. Sum of Variance
+943 C. Square root of Variance
+944 D. Measure SD
+945 Ans: E
+
+*************** ERROR ALERT ***************
+File Name: MEDCINE February 15, 2022 - Afternoon.txt
+Something is wrong around following 7 lines:
+1045 169) Person with difficulty in swallowing,
+1046 there was some white growth inside esophagus with psuedohyphae likely reason is:
+1047 A. Candidiasis
+1048 B. Aspergillosis
+1049 C. Histoplasmosis
+1050 D. Mucor
+1051 Ans: A
+
+*************** ERROR ALERT ***************
+File Name: MEDICINE & ALLIED  February 16, 2022 — Night.txt
+Something is wrong around following 7 lines:
+912 Explanations:
+913 It is the case of acute pulmonary embolism causes redistribution of blood in the lungs which impairs the ventilation perfusion ration by increasing pulmonary vascular resistance. Common cause of mutation of proto-oncogene by exogenous substance is:
+914 A. Virus
+915 B. Ionizing radiation
+916 C. Bacteria
+917 D. Fungi
+918 Ans: A
+
+*************** ERROR ALERT ***************
+File Name: MEDICINE & ALLIED May 17, 2022 — Morning.txt
+Something is wrong around following 7 lines:
+505 124) What connects WBC to
+506 endothelium?
+507 A. L selectin
+508 B. E selectin
+509 C. ICAM
+510 D. Integrin
+511 Ans: C
+
+*************** ERROR ALERT ***************
+File Name: RADIOLOGY February 15,2022 - Afternoon.txt
+Something is wrong around following 9 lines:
+910 Ans:
+911 144)
+912 A- B
+913 Patient presented with history of head trauma his urine osmolarity was decreased &Plasma osmolarity increased also developed symptoms of polydipsia and polyuria and Positive CH2O clearance Likely cause would be:
+914 A. Central Diabetes insipidus
+915 B. Nephrogenic Diabetes insipidus
+916 C. Diabetes Mellitus
+917 D. SIADH
+918 Ans: A
+
+*************** ERROR ALERT ***************
+File Name: RADIOLOGYMay 17,2022 — Morning.txt
+Something is wrong around following 7 lines:
+462 76) Anterior dislocation of femur on tibia ligament damaged is:
+463 A. Anterior cruciate ligament
+464 B. Posterior cruciate ligament
+465 C. Collatral ligament
+466 D. Both Anterior Posterior
+467 E- Deltoid ligament
+468 Ans: B
+
+*************** ERROR ALERT ***************
+File Name: RADIOLOGYMay 17,2022 — Morning.txt
+Something is wrong around following 7 lines:
+512 Female patient on HRT having risk
+513 of which of following?
+514 A. Ovarian CA
+515 B. Endometrial Ca
+516 C. Breast CA
+517 D. Thromboembolism
+518 Ans: D
+
+*************** ERROR ALERT ***************
+File Name: RADIOLOGYMay 17,2022 — Morning.txt
+Something is wrong around following 7 lines:
+583 After an automobile accident splenectomy done. After two months patient presents to emergency with septic shock and fever. Causative organism for this overwhelming infection is:
+584 A. Klebsiella
+585 A. Lumbar plexus
+586 B. Pampiniform plexus
+587 C. Vertebra] venous plexus
+588 D. Pelvic plexus
+589 Ans: C
+
+*************** ERROR ALERT ***************
+File Name: RADIOLOGYMay 17,2022 — Morning.txt
+Something is wrong around following 7 lines:
+822 131)
+823 A. Left gastric artery is branch of which of following?
+824 A. Celiac artery
+825 B. Splenic artery
+826 C. Hepatic artery
+827 D. SMA
+828 Ans: A
+
+*************** ERROR ALERT ***************
+File Name: SURGERY & ALLIED February 16, 2022 — Night.txt
+Something is wrong around following 7 lines:
+559 Remain Same:
+560 A 30-year-old man has symptoms of  reflux esophagitis esophageal biopsy  revealed columnar lining with intestinal metaplasia this patient has increased risk of developing:
+561 A. Adenocarcinoma Stomach
+562 B. Adenocarcinoma Esophagus
+563 C. Adenocarcinoma of Lung
+564 D. Adenocarcinoma of Trachea
+565 Ans: B
+
+*************** ERROR ALERT ***************
+File Name: SURGERY & ALLIED February 16, 2022 — Night.txt
+Something is wrong around following 7 lines:
+1167 182) After bacterial infection which cells will be seen?
+1168 A. Lymphocytic Leukocytosis
+1169 B. Monocytosis
+1170 C. Neutrophilic Leukocytosis
+1171 D. Basophilic Leukocytosis
+1172 E- Macrophages
+1173 Ans: C
+

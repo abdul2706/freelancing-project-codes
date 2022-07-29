@@ -1,0 +1,475 @@
+{
+    "climate_summary": "This is a text for the climate summary",
+    "mapping_results_summary": "This is a text for the mapping results summary",
+    "currency": "usd",
+    "mapping_results_image": "https://www.feezability.com/results/24t3q4efqw-23tfqwe-q24efqwd/image.png",
+    "humidity_data": {
+        "january": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "february": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "march": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "april": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "may": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "june": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "july": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "august": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "september": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "october": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "november": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "december": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        }
+    },
+    "temperature_data": {
+        "january": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "february": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "march": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "april": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "may": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "june": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "july": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "august": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "september": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "october": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "november": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        },
+        "december": {
+            "average_daily_max":34,
+            "average_daily_min":20
+        }
+    },
+    "location": "https://maps.google.com/location_pin",
+    "crop_type": "salanova_lettuce",
+    "tech_profile": 3.25,
+    "growth_method": "Advanced",
+    "structure": "Greenhouse",
+    "yearly_growth_cycles": 12,
+    "recommended_roi": {
+        "time_to_build": 6,
+        "time_to_profit": 4,
+        "10_year_roi": 8
+    },
+    "alternative_by_tech":{
+        "open_field":[
+            {
+                "size": 3,
+                "capex": 0.5
+            },
+            {
+                "size": 4,
+                "capex": 1.5
+            },
+            {
+                "size": 5,
+                "capex": 2.5
+            },
+            {
+                "size": 6,
+                "capex": 3.5
+            }
+        ],
+        "basic":[
+            {
+                "size": 3,
+                "capex": 1.5
+            },
+            {
+                "size": 4,
+                "capex": 2.5
+            },
+            {
+                "size": 5,
+                "capex": 3.5
+            },
+            {
+                "size": 6,
+                "capex": 4.5
+            }
+        ],
+        "advanced":[
+            {
+                "size": 3,
+                "capex": 2.5
+            },
+            {
+                "size": 4,
+                "capex": 3.5
+            },
+            {
+                "size": 5,
+                "capex": 4.5
+            },
+            {
+                "size": 6,
+                "capex": 5.5
+            }
+        ]
+    },
+    "greenhouse_images":{
+        "image_1": "https://www.feezability.com/results/24t3q4efqw-23tfqwe-q24efqwd/image_01.png",
+        "image_2": "https://www.feezability.com/results/24t3q4efqw-23tfqwe-q24efqwd/image_02.png",
+        "image_3": "https://www.feezability.com/results/24t3q4efqw-23tfqwe-q24efqwd/image_03.png",
+        "image_4": "https://www.feezability.com/results/24t3q4efqw-23tfqwe-q24efqwd/image_04.png"
+    },
+    "capex":{
+        "growth_method": "Advanced",
+        "total_capex": 5100000,
+        "capex_breakdown": [
+            {
+                "name": "NFT System",
+                "cost": 200000
+            },
+            {
+                "name": "Concrete Paths",
+                "cost": 26000
+            },
+            {
+                "name": "Polyethylene Greenhouse",
+                "cost": 42000
+            },
+            {
+                "name": "Shading Green",
+                "cost": 20000
+            },
+            {
+                "name": "Chillers",
+                "cost": 30000
+            },
+            {
+                "name": "Electricity System",
+                "cost": 50000
+            },
+            {
+                "name": "Climate Control",
+                "cost": 20000
+            },
+            {
+                "name": "Circulation Fans",
+                "cost": 8000
+            },
+            {
+                "name": "Exhaust Fans 50''",
+                "cost": 8000
+            },
+            {
+                "name": "Heating System",
+                "cost": 20000
+            },
+            {
+                "name": "Meteorological Station",
+                "cost": 2000
+            },
+            {
+                "name": "Post Harvest Equipment",
+                "cost": 60000
+            },
+            {
+                "name": "Infrastructure",
+                "cost": 30000
+            }
+        ]
+    },
+    "opex": {
+        "total": 3026496,
+        "breakdown": [
+            {
+                "name": "Unexpected",
+                "cost": 126000
+            },
+            {
+                "name": "Water",
+                "cost": 8424
+            },
+            {
+                "name": "Seedlings",
+                "cost": 604800
+            },
+            {
+                "name": "Electricity",
+                "cost": 171072
+            },
+            {
+                "name": "Operational Workers",
+                "cost": 720000
+            },
+            {
+                "name": "Fertilizer",
+                "cost": 147000
+            },
+            {
+                "name": "Pesticides",
+                "cost": 42000
+            },
+            {
+                "name": "Packaging Materials",
+                "cost": 453600
+            },
+            {
+                "name": "Sorting and Packaging",
+                "cost": 201600
+            }
+        ]
+    },
+    "roi": {
+        "percentage": 16,
+        "years": 4.4,
+        "roi_trend":[
+            {
+                "years":0,
+                "roi": -6000
+            },
+            {
+                "years":1,
+                "roi": -5000
+            },
+            {
+                "years":2,
+                "roi": -4000
+            },
+            {
+                "years":3,
+                "roi": -3000
+            },
+            {
+                "years":4,
+                "roi": -2000
+            },
+            {
+                "years":5,
+                "roi": 3000
+            },
+            {
+                "years":6,
+                "roi": 6000
+            },
+            {
+                "years":7,
+                "roi": 7000
+            },
+            {
+                "years":8,
+                "roi": 9000
+            },
+            {
+                "years":9,
+                "roi": 10000
+            },
+            {
+                "years":10,
+                "roi": 15000
+            }
+        ]
+    },
+    "fixed_expenses": {
+        "total": 552000,
+        "breakdown":[
+            {
+                "name": "Management",
+                "cost": 480000
+            },
+            {
+                "name": "Office Expenses",
+                "cost": 30000
+            },
+            {
+                "name": "Rent and Taxes",
+                "cost": 18000
+            },
+            {
+                "name": "Bookkeeping",
+                "cost": 12000
+            },
+            {
+                "name": "Insurance and Certifications",
+                "cost": 12000
+            } 
+        ]
+    },
+    "p_and_l":[
+        {
+            "name": "Revenue",
+            "cost": 4909600
+        },
+        {
+            "name": "Variable Expenses",
+            "cost": -2474496
+        },
+        {
+            "name": "Gross Profit",
+            "cost": 2515104
+        },
+        {
+            "name": "Fixed Expenses",
+            "cost": -552000
+        },
+        {
+            "name": "Operating Profit",
+            "cost": 1936104
+        },
+        {
+            "name": "Captial Repayment",
+            "cost": 528487
+        },
+        {
+            "name": "Net Income",
+            "cost": 1434617
+        }
+    ],
+    "sensitivity":{
+        "breakdown":[
+            {
+                "production_calculation": 80,
+                "production_units": 816480,
+                "net_income": [
+                    {
+                        "market_price": 5,
+                        "income": 527008
+                    },
+                    {
+                        "market_price": 5.5,
+                        "income": 935657
+                    },
+                    {
+                        "market_price": 5.7,
+                        "income": 1101810
+                    },
+                    {
+                        "market_price": 6,
+                        "income": 1339814
+                    }
+                ]
+            },
+            {
+                "production_calculation": 100,
+                "production_units": 907200,
+                "net_income": [
+                    {
+                        "market_price": 5,
+                        "income": 980563
+                    },
+                    {
+                        "market_price": 5.5,
+                        "income": 1434617
+                    },
+                    {
+                        "market_price": 5.7,
+                        "income": 1619232
+                    },
+                    {
+                        "market_price": 6,
+                        "income": 1883681
+                    }
+                ]
+            },
+            {
+                "production_calculation": 110,
+                "production_units": 997920,
+                "net_income": [
+                    {
+                        "market_price": 5,
+                        "income": 1434118
+                    },
+                    {
+                        "market_price": 5.5,
+                        "income": 1933577
+                    },
+                    {
+                        "market_price": 5.7,
+                        "income": 2136653
+                    },
+                    {
+                        "market_price": 6,
+                        "income": 2427547
+                    }
+                ]
+            },
+            {
+                "production_calculation": 125,
+                "production_units": 1134000,
+                "net_income": [
+                    {
+                        "market_price": 5,
+                        "income": 2114450
+                    },
+                    {
+                        "market_price": 5.5,
+                        "income": 2682017
+                    },
+                    {
+                        "market_price": 5.7,
+                        "income": 2912786
+                    },
+                    {
+                        "market_price": 6,
+                        "income": 3423347
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+Hi,
+
+I am a Computer Science graduate with more than 6 years of programming experience in Python language. I have 1 year of freelancing experience on other platforms as well. I have sound experience with ML frameworks like sklearn, pytorch, tensorflow. I also know numpy, pandas and matplotlib. Kindly send your existing code files. I will debug your code and reimplement code chunks according to your requirements.
+
+Looking forward to working with you.
+
+Best Regards,
+Abdul Rehman Khan :)

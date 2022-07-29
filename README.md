@@ -1,6 +1,7 @@
 # Freelancing Project Codes
 
 ## Send Request Template
+
 ```
 Hi there,
 
@@ -10,8 +11,8 @@ Best Regards,
 Abdul Rehman Khan :)
 ```
 
-
 ## Create Offer Template
+
 ```
 Hi there,
 
@@ -22,6 +23,8 @@ Abdul Rehman Khan :)
 ```
 
 ## Deliver Project Template
+
+```
 Hi there,
 
 Kindly find the attached code file.
